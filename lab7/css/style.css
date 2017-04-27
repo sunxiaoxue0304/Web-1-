@@ -1,0 +1,7 @@
+body{font-size: 12px;font-family: 'Arial';color: grey;line-height: 2em}
+a{color: #727272}
+a:link{text-decoration:none;}
+a:hover{text-decoration:underline;}
+.aaa{font-size: 14px;color: white;font-weight: 900}
+.aaa:hover{color: #b9f605;text-decoration: none;}
+#aa{color: #fdb306}
