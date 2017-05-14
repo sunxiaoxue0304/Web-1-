@@ -1,0 +1,10 @@
+.menu{background-image: url(../image/bj.png);width: 300px;height: 800px;
+      background-repeat: no-repeat;}
+#contact{background-image: url(../image/header.png);width: 180px;
+	     height: 80px;background-repeat: no-repeat;}
+.s{font-weight: bold;background-image: url(../image/baibiaoti.png);
+   width: 180px;height: 50px;background-repeat: no-repeat;
+   text-align:center;padding-top: 7px;margin-left: 20px;}
+#news{background-image: url(../image/lvbiaoti.png);width: 180px;
+      height: 50px;text-align: center;background-repeat: no-repeat;
+      margin-left: 20px;padding-top: 7px;color: white;font-weight: bold;}

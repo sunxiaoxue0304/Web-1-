@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+    <head>
+        <title>div</title>
+        <meta charset="utf-8"/>
+    </head>
+    <body>
+        <p>白茶清欢无别事，我在等风也等你。</p>
+        <p>如果快乐太难，那就祝你平安。</p>
+        <p>愿你的快乐一直不缺观众，也愿你的无邪有人真懂。</p>
+        <a href="#">白茶</a>
+        <a href="#">平安</a>
+    </body>
+</html>
