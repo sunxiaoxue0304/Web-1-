@@ -1,0 +1,89 @@
+body{background-image:url(../images/bodybg.gif);}
+#header{background-image:url(../images/bg.gif);
+background-repeat:no-repeat;}
+#logo{margin-left:100px;
+      margin-top:25px;}
+#nav{background-image:url(../images/nav.jpg);
+height:30px;
+}
+#nav_content{width:800px;
+font-weight:2em;
+font-color:#fff;
+float:left;
+position:absolute;
+
+margin-left:330px;
+margin-top:5px;}
+a:hover{color:#f8f5ee;
+text-decoration:underline;}
+a:link{color:#522a06;
+text-decoration:none;}
+.a1{height:40px;
+padding:5px 5px ;
+margin-top:9px;
+color:white;
+
+}
+#nav_search{width:190px;
+margin-left:1050px;
+position:absolute;
+margin-top:5px;
+height:21px;}
+#t1{width:140px;
+height:16px;
+background-color:#f8f5ee;
+float:left;}
+#b1{width:44px;
+height:21px;
+background-color:#000;
+color:#fff;
+border:1px solid #f8f5ee;
+float:left;}
+#d1{margin-left:350px;
+margin-top:10px;}
+#left{width:700px;
+float:left;}
+#right{width:280px;
+float:left;
+margin-left:16px;}
+h1{font-size:16px;
+height:45px;
+border-bottom:1px solid #c9baa5;
+margin-left:0px;
+
+text-align:center;}
+h2{font-size:12px;
+font-color:#757575;
+margin:10px;
+margin-left:280px;}
+#content{margin-left:330px;}
+#m2{background-image:url(../images/huiyi.jpg);
+	width:5500px;
+	height:360px;
+background-repeat:no-repeat;
+margin-left:70px;}
+#n1{background-image:url(../images/bg.png);
+border:1px solid #c9baa5;
+margin-bottom:10px;
+margin-top:30px;
+width:250px;
+height:200px;}
+li{list-style:none;}
+#n2{margin-top:30px;
+background-image:url(../images/show_bg.png);}
+#r2{margin-left:20px;
+margin-top:50px;}
+#foot{margin-top:700px;
+margin-left:330px;}
+#f1{float:left;}
+#f2{float:left;}
+#footer{height:105px;
+   margin-left:330px;
+   width:990px;
+   margin-top:750px;
+   
+background-image:url(../images/foot.gif);}
+#o1{margin-left:280px;
+margin-top:0px;}
+#o3{margin-left:250px;}
+a{color:#844004;}
